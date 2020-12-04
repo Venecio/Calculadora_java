@@ -1,7 +1,7 @@
 
 package javaapplication4;
 
-//PreparedStatement pps = conexion.prepareStatement("INSERT INTO cal(,calculadora_operacion) VALUES(,Holi)");
+
 
 import com.mysql.jdbc.ResultSet;
 import com.mysql.jdbc.Statement;
